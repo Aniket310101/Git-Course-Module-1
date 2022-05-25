@@ -1,1 +1,1 @@
-# GitHub-Practice-Udemy-1
+# Git-Course-Module-1
